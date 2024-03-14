@@ -58,6 +58,3 @@ Contributions are welcome! If you'd like to contribute to this project, feel fre
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
-
-Customize this template as needed for your project, including project name, features, folder structure, and contribution guidelines. Make sure to update the `.env.example` file with the necessary environment variables required by your application.
